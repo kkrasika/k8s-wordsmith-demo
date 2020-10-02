@@ -93,3 +93,10 @@ kubectl apply -f kube-deployment.yml
 ```
 
 Now browse to http://localhost:8081 and you will see the same site.
+
+
+Check Minicube Services - minikube service words --url
+
+Docker Installation - https://docs.docker.com/engine/install/ubuntu/
+
+Minicube / Kubernetes Install - https://phoenixnap.com/kb/install-minikube-on-ubuntu
